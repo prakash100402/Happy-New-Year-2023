@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">New Year 2023</string>
+    <string name="todo">TODO</string>
+    <string name="todo_1">TODO</string>
+    <string name="todo_2">TODO</string>
+    <string name="todo_3">TODO</string>
+    <string name="todo_5">TODO</string>
+    <string name="play_again">PLay Again</string>
+    <string name="play_again_1">Play again</string>
+    <string name="button">Button</string>
+    <string name="see_again">See Again ^_^</string>
+</resources>
